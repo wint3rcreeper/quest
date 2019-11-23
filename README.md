@@ -1,5 +1,5 @@
 # quest
-
+//Вбейте это в компилятор c++
 #include<iostream>
 #include<string>
 using namespace std;
